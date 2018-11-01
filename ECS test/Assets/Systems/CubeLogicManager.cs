@@ -14,7 +14,7 @@ class CubeLogicManager: ComponentSystem
         public Rotate rotator;
         public Transform transform;
         public Rigidbody rigidbody;
-    }
+    }       
 
     protected override void OnUpdate()
     {
